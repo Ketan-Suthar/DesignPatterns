@@ -1,4 +1,4 @@
-package example;
+package duck_example;
 
 interface Duck
 {
